@@ -1,4 +1,8 @@
-digital-clouds pagina=200 encontrado=https://assets.mixkit.co/music/623/623.mp3
+close-up ok
 digital-clouds ok
-pixabay-minimal pagina=403 encontrado=
-pixabay-promo pagina=403 encontrado=
+curiosity ok
+stylz ok
+new-bass ok
+lofi-04 ok
+break-away ok
+cinematic-jazz ok
