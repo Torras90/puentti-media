@@ -1,0 +1,29 @@
+name: Descargar fotos de stock
+on:
+  push:
+    branches: [fotos]
+    paths: [fotos/lista.txt]
+permissions:
+  contents: write
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar cada foto de la lista
+        run: |
+          set -e
+          while read -r nombre url; do
+            [ -z "$nombre" ] && continue
+            case "$nombre" in \#*) continue;; esac
+            [ -f "fotos/$nombre.jpg" ] && continue
+            curl -fsSL -A "Mozilla/5.0" "$url" -o "fotos/$nombre.jpg"
+            echo "ok $nombre"
+          done < fotos/lista.txt
+      - name: Guardar en la rama
+        run: |
+          git config user.name "puentti-bot"
+          git config user.email "puentti-bot@users.noreply.github.com"
+          git add fotos
+          git diff --cached --quiet || git commit -m "Fotos descargadas"
+          git push

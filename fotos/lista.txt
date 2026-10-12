@@ -1,0 +1,13 @@
+# nombre  url (fotos de Pexels, licencia libre para uso comercial)
+caracas-montana https://images.pexels.com/photos/38556235/pexels-photo-38556235.jpeg?auto=compress&cs=tinysrgb&w=1400
+caracas-niebla https://images.pexels.com/photos/39229607/pexels-photo-39229607.jpeg?auto=compress&cs=tinysrgb&w=1400
+refineria-torre https://images.pexels.com/photos/15970027/pexels-photo-15970027.jpeg?auto=compress&cs=tinysrgb&w=1400
+refineria-tubos https://images.pexels.com/photos/23369348/pexels-photo-23369348.jpeg?auto=compress&cs=tinysrgb&w=1400
+refineria-torre-2 https://images.pexels.com/photos/38343899/pexels-photo-38343899.jpeg?auto=compress&cs=tinysrgb&w=1400
+tanques https://images.pexels.com/photos/31403876/pexels-photo-31403876.jpeg?auto=compress&cs=tinysrgb&w=1400
+planta https://images.pexels.com/photos/257700/pexels-photo-257700.jpeg?auto=compress&cs=tinysrgb&w=1400
+edificio-vidrio https://images.pexels.com/photos/290275/pexels-photo-290275.jpeg?auto=compress&cs=tinysrgb&w=1400
+edificio-oficinas https://images.pexels.com/photos/5230087/pexels-photo-5230087.jpeg?auto=compress&cs=tinysrgb&w=1400
+fachada-cristal https://images.pexels.com/photos/934505/pexels-photo-934505.jpeg?auto=compress&cs=tinysrgb&w=1400
+rascacielos https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&w=1400
+fachada-geometrica https://images.pexels.com/photos/31715450/pexels-photo-31715450.jpeg?auto=compress&cs=tinysrgb&w=1400
