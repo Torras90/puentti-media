@@ -1,4 +1,9 @@
-# nombre  pagina de la pista (Mixkit o Pixabay)
-digital-clouds https://mixkit.co/free-stock-music/tag/corporate/
-pixabay-minimal https://pixabay.com/music/corporate-minimal-164833/
-pixabay-promo https://pixabay.com/music/corporate-corporate-polished-promo-spot-576621/
+# nombre  mp3 de Mixkit (licencia Mixkit Stock Music Free: uso comercial en redes, sin atribución)
+close-up https://assets.mixkit.co/music/1167/1167.mp3
+digital-clouds https://assets.mixkit.co/music/175/175.mp3
+curiosity https://assets.mixkit.co/music/480/480.mp3
+stylz https://assets.mixkit.co/music/102/102.mp3
+new-bass https://assets.mixkit.co/music/720/720.mp3
+lofi-04 https://assets.mixkit.co/music/766/766.mp3
+break-away https://assets.mixkit.co/music/85/85.mp3
+cinematic-jazz https://assets.mixkit.co/music/653/653.mp3
