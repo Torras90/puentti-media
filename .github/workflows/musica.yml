@@ -1,0 +1,37 @@
+name: Descargar musica
+on:
+  push:
+    branches: [fotos]
+    paths: [musica/lista.txt]
+permissions:
+  contents: write
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar el mp3 en cada pagina y descargarlo
+        run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+          : > musica/registro.txt
+          while read -r nombre url; do
+            [ -z "$nombre" ] && continue
+            case "$nombre" in \#*) continue;; esac
+            [ -f "musica/$nombre.mp3" ] && continue
+            if echo "$url" | grep -q '\.mp3'; then mp3="$url"; else
+              codigo=$(curl -sL -A "$UA" -o pagina.html -w '%{http_code}' "$url")
+              mp3=$(grep -oE 'https:[^"'"'"' ]+\.mp3[^"'"'"' ]*' pagina.html | sed 's/\\u002F/\//g; s/\\\//\//g; s/&amp;/\&/g' | head -1)
+              echo "$nombre pagina=$codigo encontrado=$mp3" >> musica/registro.txt
+            fi
+            if [ -n "$mp3" ]; then
+              curl -fsSL -A "$UA" -e "$url" "$mp3" -o "musica/$nombre.mp3" && echo "$nombre ok" >> musica/registro.txt || echo "$nombre fallo descarga" >> musica/registro.txt
+            fi
+          done < musica/lista.txt
+          rm -f pagina.html
+      - name: Guardar en la rama
+        run: |
+          git config user.name "puentti-bot"
+          git config user.email "puentti-bot@users.noreply.github.com"
+          git add musica
+          git diff --cached --quiet || git commit -m "Musica descargada"
+          git push
