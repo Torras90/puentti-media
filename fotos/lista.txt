@@ -11,3 +11,6 @@ edificio-oficinas https://images.pexels.com/photos/5230087/pexels-photo-5230087.
 fachada-cristal https://images.pexels.com/photos/934505/pexels-photo-934505.jpeg?auto=compress&cs=tinysrgb&w=1400
 rascacielos https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&w=1400
 fachada-geometrica https://images.pexels.com/photos/31715450/pexels-photo-31715450.jpeg?auto=compress&cs=tinysrgb&w=1400
+nota-a-mano-pedido https://images.pexels.com/photos/7857541/pexels-photo-7857541.jpeg?auto=compress&cs=tinysrgb&w=1400
+emprendedora-taller-celular https://images.pexels.com/photos/5410100/pexels-photo-5410100.jpeg?auto=compress&cs=tinysrgb&w=1400
+cliente-recomienda-cafe https://images.pexels.com/photos/31713078/pexels-photo-31713078.jpeg?auto=compress&cs=tinysrgb&w=1400
