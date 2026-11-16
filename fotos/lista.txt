@@ -14,3 +14,10 @@ fachada-geometrica https://images.pexels.com/photos/31715450/pexels-photo-317154
 nota-a-mano-pedido https://images.pexels.com/photos/7857541/pexels-photo-7857541.jpeg?auto=compress&cs=tinysrgb&w=1400
 emprendedora-taller-celular https://images.pexels.com/photos/5410100/pexels-photo-5410100.jpeg?auto=compress&cs=tinysrgb&w=1400
 cliente-recomienda-cafe https://images.pexels.com/photos/31713078/pexels-photo-31713078.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-cola-1 https://images.pexels.com/photos/8880742/pexels-photo-8880742.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-cola-2 https://images.pexels.com/photos/8879621/pexels-photo-8879621.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-moto-1 https://images.pexels.com/photos/12203732/pexels-photo-12203732.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-moto-2 https://images.pexels.com/photos/16238131/pexels-photo-16238131.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-moto-3 https://images.pexels.com/photos/7363190/pexels-photo-7363190.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-cana-1 https://images.pexels.com/photos/2254097/pexels-photo-2254097.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-cana-2 https://images.pexels.com/photos/7457175/pexels-photo-7457175.jpeg?auto=compress&cs=tinysrgb&w=1400
