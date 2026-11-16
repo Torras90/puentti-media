@@ -27,3 +27,5 @@ silueta-capucha-niebla https://images.pexels.com/photos/20773198/pexels-photo-20
 cand-sil-4 https://images.pexels.com/photos/14554642/pexels-photo-14554642.jpeg?auto=compress&cs=tinysrgb&w=1400
 cand-sil-5 https://images.pexels.com/photos/6794910/pexels-photo-6794910.jpeg?auto=compress&cs=tinysrgb&w=1400
 cand-sil-6 https://images.pexels.com/photos/24284864/pexels-photo-24284864.jpeg?auto=compress&cs=tinysrgb&w=1400
+patente-spanx-d0 https://patentimages.storage.googleapis.com/f7/c2/25/afd489165346fa/US06276176-20010821-D00000.png
+patente-spanx-d1 https://patentimages.storage.googleapis.com/18/c1/b7/971b1ebe4fb0ea/US06276176-20010821-D00001.png
