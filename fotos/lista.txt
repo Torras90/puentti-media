@@ -29,3 +29,4 @@ cand-sil-5 https://images.pexels.com/photos/6794910/pexels-photo-6794910.jpeg?au
 cand-sil-6 https://images.pexels.com/photos/24284864/pexels-photo-24284864.jpeg?auto=compress&cs=tinysrgb&w=1400
 patente-spanx-d0 https://patentimages.storage.googleapis.com/f7/c2/25/afd489165346fa/US06276176-20010821-D00000.png
 patente-spanx-d1 https://patentimages.storage.googleapis.com/18/c1/b7/971b1ebe4fb0ea/US06276176-20010821-D00001.png
+patente-spanx-pdf https://patentimages.storage.googleapis.com/b8/ca/ea/a46e214ae80252/US6276176.pdf
