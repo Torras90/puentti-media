@@ -21,3 +21,9 @@ delivery-moto-movimiento https://images.pexels.com/photos/16238131/pexels-photo-
 cand-moto-3 https://images.pexels.com/photos/7363190/pexels-photo-7363190.jpeg?auto=compress&cs=tinysrgb&w=1400
 cand-cana-1 https://images.pexels.com/photos/2254097/pexels-photo-2254097.jpeg?auto=compress&cs=tinysrgb&w=1400
 canaveral https://images.pexels.com/photos/7457175/pexels-photo-7457175.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-sil-1 https://images.pexels.com/photos/17267358/pexels-photo-17267358.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-sil-2 https://images.pexels.com/photos/12596472/pexels-photo-12596472.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-sil-3 https://images.pexels.com/photos/20773198/pexels-photo-20773198.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-sil-4 https://images.pexels.com/photos/14554642/pexels-photo-14554642.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-sil-5 https://images.pexels.com/photos/6794910/pexels-photo-6794910.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-sil-6 https://images.pexels.com/photos/24284864/pexels-photo-24284864.jpeg?auto=compress&cs=tinysrgb&w=1400
