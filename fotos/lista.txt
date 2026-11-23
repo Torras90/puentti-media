@@ -30,3 +30,9 @@ cand-sil-6 https://images.pexels.com/photos/24284864/pexels-photo-24284864.jpeg?
 patente-spanx-d0 https://patentimages.storage.googleapis.com/f7/c2/25/afd489165346fa/US06276176-20010821-D00000.png
 patente-spanx-d1 https://patentimages.storage.googleapis.com/18/c1/b7/971b1ebe4fb0ea/US06276176-20010821-D00001.png
 patente-spanx-pdf https://patentimages.storage.googleapis.com/b8/ca/ea/a46e214ae80252/US6276176.pdf
+cand-firma-1 https://images.pexels.com/photos/8112180/pexels-photo-8112180.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-firma-2 https://images.pexels.com/photos/5398881/pexels-photo-5398881.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-firma-3 https://images.pexels.com/photos/9870144/pexels-photo-9870144.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-ext-1 https://images.pexels.com/photos/7310015/pexels-photo-7310015.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-ext-2 https://images.pexels.com/photos/5940721/pexels-photo-5940721.jpeg?auto=compress&cs=tinysrgb&w=1400
+cand-ext-3 https://images.pexels.com/photos/7681505/pexels-photo-7681505.jpeg?auto=compress&cs=tinysrgb&w=1400
